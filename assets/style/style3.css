@@ -1,0 +1,12 @@
+.black {
+    color: black;
+    font-size: 20px;
+}
+
+.gray { 
+    color: cyan; 
+    background: gray; 
+    padding: 7px; 
+    border-radius: 10px;
+    font-size: 20px;
+}

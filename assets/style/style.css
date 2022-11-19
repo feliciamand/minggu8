@@ -1,0 +1,16 @@
+p { 
+    font-family: serif;
+    line-height: 1.75em;
+    font-size: 18px;
+    color: darkslategrey;
+} 
+ 
+i { 
+    font-family: sans; 
+    color: darkblue; 
+} 
+ 
+h2 { 
+    font-family: sans; 
+    color: darkblue;
+}
